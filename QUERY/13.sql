@@ -1,0 +1,1 @@
+SELECT Ename FROM `employee` WHERE ename LIKE '__a%' 

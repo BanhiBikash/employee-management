@@ -1,0 +1,1 @@
+SELECT CONCAT(ename,',',job_type) FROM employee

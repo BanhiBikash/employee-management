@@ -1,0 +1,1 @@
+SELECT ename,salary FROM employee where dno=10 OR dno=30 ORDER BY ename ASC

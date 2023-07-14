@@ -1,0 +1,1 @@
+SELECT ename,salary,commission FROM employee where commission>0

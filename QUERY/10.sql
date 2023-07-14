@@ -1,0 +1,1 @@
+SELECT ename,job_type FROM ename where manager=0

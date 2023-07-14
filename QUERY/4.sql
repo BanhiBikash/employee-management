@@ -1,0 +1,2 @@
+SELECT CONCAT(eno,',',ename,',',job_type,',',manager,',',Hire_date,',',dno,',',commission,',',salary) FROM employee
+SELECT CONCAT('THE_Eno ',eno,',','THE_ENAME ',ename,',','THE_JOB_TYPE ',job_type,',','THE_MANAGER ',manager,',','THE_HIRE_DATE ',Hire_date,',','THE_Dno ',dno,',','THE_COMMISSION ',commission,',','THE_SALARY ',salary) FROM employee

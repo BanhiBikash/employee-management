@@ -1,0 +1,1 @@
+SELECT DISTINCT Job_type FROM employee

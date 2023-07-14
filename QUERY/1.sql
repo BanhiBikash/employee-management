@@ -1,0 +1,1 @@
+SELECT Eno,Ename,Job_type,Hire_date FROM `employee`

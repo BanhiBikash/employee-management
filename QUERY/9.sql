@@ -1,0 +1,1 @@
+SELECT ename,Hire_date FROM employee where Hire_date between 01-01-1982 AND 31-12-1980

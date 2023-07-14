@@ -1,0 +1,1 @@
+SELECT ename,salary FROM employee where manager='King'

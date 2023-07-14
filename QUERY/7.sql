@@ -1,0 +1,1 @@
+SELECT ename,salary FROM employee where salary between 1500 AND 2850

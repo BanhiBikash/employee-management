@@ -1,0 +1,1 @@
+SELECT ename,dno FROM employee where eno=7900
